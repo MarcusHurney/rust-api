@@ -1,0 +1,12 @@
+/Users/marcushurney/Desktop/Rust/rust_api/target/debug/deps/libmemchr-2fff41cd63735fc9.rlib: /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/lib.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/c.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/fallback.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/iter.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/naive.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/mod.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/avx.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/sse2.rs
+
+/Users/marcushurney/Desktop/Rust/rust_api/target/debug/deps/memchr-2fff41cd63735fc9.d: /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/lib.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/c.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/fallback.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/iter.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/naive.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/mod.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/avx.rs /Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/sse2.rs
+
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/lib.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/c.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/fallback.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/iter.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/naive.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/mod.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/avx.rs:
+/Users/marcushurney/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.1.0/src/x86/sse2.rs:
